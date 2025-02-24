@@ -43,6 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
+[![Cisco CyberOps Certified](https://img.shields.io/badge/Cisco-CyberOps%20Certified-blue?logo=cisco)](https://www.credly.com/badges/4c13d10d-308c-4d67-a065-93d3d9a0bbf4/)
 
 
 ## Projects
