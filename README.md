@@ -31,7 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/Cisco-CyberOps%20Certified-blue?logo=cisco" alt="Cisco CyberOps">
 </a>
 <a href="https://www.credly.com/badges/baa7d00c-4401-4709-a0ec-e8890f7925b6/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/CCNA-Certified-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" alt="CCNA">
+ <img src="https://img.shields.io/badge/Cisco-CCNA%20Certified-blue?logo=cisco" alt="Cisco CyberOps">
 </a>
 
 ## Projects
