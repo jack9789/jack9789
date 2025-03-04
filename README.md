@@ -8,8 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+Welcome to my GitHub! I’m a cybersecurity enthusiast actively building Windows Active Directory labs, analyzing SIEM logs, and simulating attacks to strengthen my SOC analysis skills.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
