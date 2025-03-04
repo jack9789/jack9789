@@ -3,7 +3,7 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I hold a Computer Science degree from Taiwan with early experience in server and OS testing. After gaining valuable customer service and management skills in hospitality and retail in Australia, I’m now excited to return to the IT industry and apply my diverse background to innovative tech solutions.
 
 ## Objective
 
