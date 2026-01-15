@@ -5,12 +5,7 @@
 
 I hold a Computer Science degree from Taiwan with early experience in server and OS testing. After gaining valuable customer service and management skills in hospitality and retail in Australia, I’m now excited to return to the IT industry and apply my diverse background to innovative tech solutions.
 
-## Objective
 
-
-Welcome to my GitHub! I’m a cybersecurity enthusiast actively building Windows Active Directory labs, analyzing SIEM logs, and simulating attacks to strengthen my SOC analysis skills.
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
