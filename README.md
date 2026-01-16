@@ -1,18 +1,18 @@
-Hi, I'm Sheng-You Chen 👋
+Hi, I'm Sheng-You Chen 👋\
 IT Professional | System Administrator | Network Engineer
 
 
-🚀 About Me
+🚀 About Me\
 I'm an IT professional with a background in server testing and OS validation, currently building enterprise-grade homelab infrastructure to sharpen my skills in system administration, networking, and cybersecurity. I hold CCNA and CyberOps Associate certifications and am passionate about infrastructure automation, Active Directory, and network security.
 After working as a Server Test Engineer and OS Tester in Taiwan, I've been refreshing and expanding my technical skills through hands-on lab projects while pursuing opportunities in IT Support and System Administration roles.
 
-🛠️ Technical Skills
+🛠️ Technical Skills\
 Operating Systems: Windows Server (2019/2022), Windows 10/11, Linux (Ubuntu, AlmaLinux, Kali)\
 Networking: TCP/IP, VLANs (802.1Q), DNS, DHCP, Routing & Switching, Firewall Configuration, Cisco IOS, OPNsense\
 Virtualization: Proxmox VE, VMware, Docker\
 System Administration: Active Directory (AD DS, GPOs, User/Group Management), PowerShell\
 Security: Network Segmentation, Firewall Rules, Intrusion Detection, Security Monitoring, Log Analysis\
-Tools: Git, NetData, Portainer, Ansible (in progress), Microsoft 365\
+Tools: Git, NetData, Portainer, Ansible (in progress), Microsoft 365
 
 🏗️ Featured Projects\
 Proxmox OPNsense VLAN Homelab\
