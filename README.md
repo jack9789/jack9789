@@ -37,6 +37,6 @@ Active Directory Domain Services setup\
 pfSense firewall and network segmentation\
 File server configuration\
 Windows and Linux client domain integration\
-DHCP, DNS, and Group Policy management\
+DHCP, DNS, and Group Policy management
 
-Tech Stack: VMware Workstation, Windows Server, pfSense, Ubuntu\
+Tech Stack: VMware Workstation, Windows Server, pfSense, Ubuntu
