@@ -25,9 +25,9 @@ Active Directory: Windows Server 2022 Domain Controller with DNS, DHCP, GPOs, an
 Network Segmentation: 4 VLANs (Management, Servers, Trusted Clients, Attacker/DMZ) using Cisco SG300-28\
 Container Services: Docker host running Portainer, Zammad (ticketing), NetData (monitoring), Nextcloud, SearXNG\
 Linux Integration: Ubuntu clients joined to AD domain via SSSD authentication\
-Automation: Ansible implementation (in progress) for configuration management and compliance checking\
+Automation: Ansible implementation (in progress) for configuration management and compliance checking
 
-Tech Stack: Proxmox VE, OPNsense, Windows Server 2022, AlmaLinux, Ubuntu, Docker, Cisco IOS, VLANs\
+Tech Stack: Proxmox VE, OPNsense, Windows Server 2022, AlmaLinux, Ubuntu, Docker, Cisco IOS, VLANs
 
 Active Directory Lab\
 Windows Domain Environment with pfSense\
